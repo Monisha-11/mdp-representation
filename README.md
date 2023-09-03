@@ -1,4 +1,4 @@
-# MDP REPRESENTATION
+# EXP - 01 MDP REPRESENTATION
 
 ## AIM:
 To represent a Markov Decision Process(MDP) problem in the following ways.
