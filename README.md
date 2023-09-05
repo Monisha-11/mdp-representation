@@ -50,37 +50,37 @@ In this case consider a frog as a agent.that frog jump the next and next leaf to
 P = {
 
     0 : {
-        0 : [(0.1 , 0 , 0.0 , False)],
-        1 : [(0.1 , 0 , 0.0 , False)],
-        2 : [(0.8 , 1 , 0.0 , False)]
+        0 : [(0.8 , 0 , 0.0 , False)],
+        1 : [(0.6 , 0 , 0.0 , False)],
+        2 : [(1.0 , 1 , 0.0 , False)]
     },
 
     1 : {
-        0 : [(0.2 , 0 , 0.0 , False)],
-        1 : [(0.6 , 4 , 0.0 , False)],
-        2 : [(0.2 , 2 , 0.0 , False)]
+        0 : [(1.0 , 0 , 0.0 , False)],
+        1 : [(1.0 , 4 , 0.0 , False)],
+        2 : [(1.0 , 2 , 0.0 , False)]
     },
 
     2 : {
-        0 : [(0.8 , 1 , 0.0 , False)],
-        1 : [(0.1 , 2 , 0.0 , False)],
-        2 : [(0.1 , 2 , 0.0 , False)]
+        0 : [(1.0 , 1 , 0.0 , False)],
+        1 : [(0.8 , 2 , 0.0 , False)],
+        2 : [(0.8 , 2 , 0.0 , False)]
     },
 
     3 : {
-        0 : [(0.1 , 3 , 0.0 , False)],
-        1 : [(0.1 , 3 , 0.0 , False)],
-        2 : [(0.8 , 4 , 0.0 , False)]
+        0 : [(0.8 , 3 , 0.0 , False)],
+        1 : [(0.8 , 3 , 0.0 , False)],
+        2 : [(1.0 , 4 , 0.0 , False)]
     },
     4 : {
-        0 : [(0.2 , 3 , 0.0 , False)],
-        1 : [(0.6 , 6 , 1.0 , True)],
-        2 : [(0.2 , 5 , 0.0 , False)]
+        0 : [(1.0 , 3 , 0.0 , False)],
+        1 : [(1.0 , 6 , 1.0 , True)],
+        2 : [(1.0 , 5 , 0.0 , False)]
     },
     5 : {
-        0 : [(0.8 , 4 , 0.0 , False)],
-        1 : [(0.1 , 5 , 0.0 , False)],
-        2 : [(0.1 , 5 , 0.0 , False)]
+        0 : [(1.0 , 4 , 0.0 , False)],
+        1 : [(0.8 , 5 , 0.0 , False)],
+        2 : [(0.8 , 5 , 0.0 , False)]
     },
     6 : {
         0 : [(1.0 , 6 , 1.0 , True)],
@@ -94,7 +94,8 @@ P
 ```
 ## OUTPUT:
 
-<img width="280" alt="image" src="https://github.com/Monisha-11/mdp-representation/assets/93427240/cfd9c219-cff2-410d-bfd8-61a68537ea47">
+<img width="290" alt="image" src="https://github.com/Monisha-11/mdp-representation/assets/93427240/f5d7e740-c123-4493-9566-8ddc02aca523">
+
 
 ## RESULT:
 Thus a real world problem is represented as Markov Decision Problem in the following ways successfully:
