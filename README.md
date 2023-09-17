@@ -50,8 +50,8 @@ In this case consider a frog as a agent.that frog jump the next and next leaf to
 P = {
 
     0 : {
-        0 : [(0.8 , 0 , 0.0 , False)],
-        1 : [(0.6 , 0 , 0.0 , False)],
+        0 : [(1.0 , 0 , 0.0 , False)],
+        1 : [(1.0 , 0 , 0.0 , False)],
         2 : [(1.0 , 1 , 0.0 , False)]
     },
 
@@ -63,13 +63,13 @@ P = {
 
     2 : {
         0 : [(1.0 , 1 , 0.0 , False)],
-        1 : [(0.8 , 2 , 0.0 , False)],
-        2 : [(0.8 , 2 , 0.0 , False)]
+        1 : [(1.0 , 2 , 0.0 , False)],
+        2 : [(1.0 , 2 , 0.0 , False)]
     },
 
     3 : {
-        0 : [(0.8 , 3 , 0.0 , False)],
-        1 : [(0.8 , 3 , 0.0 , False)],
+        0 : [(1.0 , 3 , 0.0 , False)],
+        1 : [(1.0 , 3 , 0.0 , False)],
         2 : [(1.0 , 4 , 0.0 , False)]
     },
     4 : {
@@ -79,8 +79,8 @@ P = {
     },
     5 : {
         0 : [(1.0 , 4 , 0.0 , False)],
-        1 : [(0.8 , 5 , 0.0 , False)],
-        2 : [(0.8 , 5 , 0.0 , False)]
+        1 : [(1.0 , 5 , 0.0 , False)],
+        2 : [(1.0 , 5 , 0.0 , False)]
     },
     6 : {
         0 : [(1.0 , 6 , 1.0 , True)],
@@ -94,7 +94,8 @@ P
 ```
 ## OUTPUT:
 
-<img width="290" alt="image" src="https://github.com/Monisha-11/mdp-representation/assets/93427240/f5d7e740-c123-4493-9566-8ddc02aca523">
+<img width="266" alt="image" src="https://github.com/Monisha-11/mdp-representation/assets/93427240/0c070b02-247e-43e7-959f-ed93ae9406b5">
+
 
 
 ## RESULT:
